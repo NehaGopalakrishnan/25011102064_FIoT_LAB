@@ -32,7 +32,7 @@ The objective is to position the LCD cursor at specific row and column locations
 
 ## CIRCUIT DIAGRAM
 
-Refer to the common CAT7 circuit diagram (`circuit.png`).
+![Circuit Diagram](circuit.png)
 
 ### LCD Pin Connections
 

@@ -25,7 +25,7 @@ Modify the UART transmission program to receive characters from the PC terminal 
 
 ## CIRCUIT DIAGRAM
 
-Refer to `circuit.png`.
+![Circuit Diagram](circuit.png)
 
 ## CORE LOGIC
 

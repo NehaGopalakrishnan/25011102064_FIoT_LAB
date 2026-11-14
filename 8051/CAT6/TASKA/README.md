@@ -25,7 +25,7 @@ Configure the UART of the AT89S52 microcontroller for serial communication with 
 
 ## CIRCUIT DIAGRAM
 
-Refer to `circuit.png`.
+![Circuit Diagram](circuit.png)
 
 ## CORE LOGIC
 

@@ -26,7 +26,7 @@ Implement interrupt-driven UART reception using the serial interrupt of the AT89
 
 ## CIRCUIT DIAGRAM
 
-Refer to `circuit.png`.
+![Circuit Diagram](circuit.png)
 
 ## CORE LOGIC
 

@@ -32,7 +32,7 @@ The objective is to initialize a 16×2 LCD, configure its operating mode and dis
 
 ## CIRCUIT DIAGRAM
 
-Refer to the common CAT7 circuit diagram (`circuit.png`).
+![Circuit Diagram](circuit.png)
 
 ### LCD Pin Connections
 
